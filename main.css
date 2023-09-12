@@ -1,0 +1,27 @@
+.card {
+    width: 200px;
+    height: 200px;
+    border: 5px solid yellow;
+    border-radius: 5px;
+    display: inline-block;
+    margin-right: 15px;
+}
+
+.card-image {
+
+    width: 100%;
+    height: 180px;
+
+}
+ 
+.card-image img {
+    max-width: 100%;
+}
+
+.card-info {
+    padding: 20px;
+}
+
+.main {
+    width: 100%;
+}
